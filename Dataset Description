@@ -1,0 +1,15 @@
+**Dataset Description**
+
+The dataset used for this sentiment analysis project consists of patient reviews about healthcare services. It includes the following columns:
+
+**Review_Text:** This column contains the text of the patient reviews, describing their experiences with healthcare providers.
+**Rating:** This column provides a numerical rating given by the patients, typically ranging from 1 to 5, 
+where:
+1 and 2 indicate negative experiences,
+
+3 indicates a neutral experience,
+
+4 and 5 indicate positive experiences.
+
+
+The dataset is structured in a CSV file format and was collected from various healthcare provider websites, review platforms, and patient surveys. The reviews capture a wide range of sentiments and provide valuable insights into patient satisfaction and areas for improvement in healthcare services.
